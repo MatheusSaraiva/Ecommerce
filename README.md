@@ -4,13 +4,22 @@
 
 # Sobre o projeto
 
-O projeto e um E-commerce
-apesar de ter muitas coisas que foi abstraída como cupons de desconto e cálculo de frete.
-As funcionalidades mais importantes como cadastro de login, cadastro de produto,
-atualização de dados, variações de produto entre outras funcionalidades
-foram implementadas, o projeto ainda não foi finalizado mas já está bem evoluído.
+Estou empolgado em compartilhar o progresso significativo do meu trabalho em um ambicioso projeto de E-commerce. Embora haja muitos aspectos a serem refinados, as funcionalidades essenciais já estão implementadas, delineando uma visão clara para a criação de uma plataforma abrangente e eficiente.
 
+# Principais Funcionalidades Implementadas:
 
+1. Cadastro de Login: Estabeleci um sistema de cadastro e login que prioriza a segurança dos usuários, proporcionando uma experiência de entrada intuitiva e protegida.
+
+2. Cadastro de Produto: Implementei uma funcionalidade robusta para o cadastro de produtos, garantindo uma administração eficiente do catálogo e facilitando a atualização de informações.
+
+3. Atualização de Dados: A capacidade de atualizar informações pessoais é uma prioridade. Desenvolvi um processo simplificado para que os usuários possam manter seus dados atualizados, contribuindo para uma experiência personalizada.
+
+4. Variações de Produto: Integrei um sistema versátil de variações de produto, permitindo a oferta de diferentes opções para um mesmo item. Isso amplia a diversidade de escolha para os clientes, tornando a plataforma mais atrativa.
+
+# Estado Atual do Projeto:
+
+Embora o projeto de E-commerce ainda não tenha alcançado sua fase final, é evidente que alcançou um estágio de maturidade considerável. A estrutura implementada fornece uma base sólida para futuras expansões e refinamentos.
+   
 ## Layout web
 ![Web 1](https://github.com/MatheusSaraiva/ecommerce/blob/main/img/home.png)
 ##
